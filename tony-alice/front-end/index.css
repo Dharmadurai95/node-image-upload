@@ -1,0 +1,11 @@
+label{
+    width: 300px;
+    padding: 20px;
+    height: 55px;
+    background-color: bisque;
+    color: black;
+    
+}
+input {
+    opacity: 0;
+}
